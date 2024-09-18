@@ -11,4 +11,4 @@
 - nnunet/run/run_training is the training entry point and has been modified with additional arguments to specific augmentation scheme and number of epochs to train.
 
 ## Data
-A dataset containing all data used in the study is available at https://huggingface.co/datasets/westfechtel/augmentation-paper
+A dataset containing all data used in the study is available at https://huggingface.co/datasets/westfechtel/paper-augmentation
